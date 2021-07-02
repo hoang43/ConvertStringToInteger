@@ -34,6 +34,9 @@ public class ConvertStringToInteger {
         }
         return numberResult;
     }
+    public void greeting(){
+        System.out.println("Test new branch");
+    }
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
